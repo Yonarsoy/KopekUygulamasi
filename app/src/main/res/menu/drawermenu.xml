@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cins"
+        android:title="Köpek Cinsleri" />
+    <item
+        android:id="@+id/egitim"
+        android:title="Köpek Eğitimi" />
+    <item
+        android:id="@+id/duygular"
+        android:title="Köpek Duyguları" />
+    <item
+        android:id="@+id/isim"
+        android:title="Köpek İsimleri" />
+    <item
+        android:id="@+id/sss"
+        android:title="Soru - Cevap" />
+    <item
+        android:id="@+id/hktsu"
+        android:title="Hangi Köpek Sana Uygun" />
+
+</menu>
